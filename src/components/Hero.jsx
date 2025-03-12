@@ -6,8 +6,8 @@ const Hero = () => {
     <div className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white">
       <div className="container mx-auto px-4 py-16 md:py-24">
         <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            Discover Local Vendors & Shops
+          <h1 className="text-xl md:text-5xl font-bold mb-6">
+            Connect. Shop. Play-Direct from Manufactures!
           </h1>
           <p className="text-xl mb-8">
             Find the best local businesses in your area. Browse through our curated collection

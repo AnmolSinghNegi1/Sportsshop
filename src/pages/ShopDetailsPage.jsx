@@ -166,7 +166,7 @@ const ShopDetailsPage = () => {
                       <h3 className="font-semibold text-lg">{product.name}</h3>
                       <p className="text-gray-600 text-sm mb-2">{product.description}</p>
                       <div className="flex justify-between items-center">
-                        <span className="font-bold text-lg">${product.price}</span>
+                        
                         <button className="bg-indigo-600 text-white p-2 rounded-full hover:bg-indigo-700 transition-colors">
                           <ShoppingBag size={18} />
                         </button>
